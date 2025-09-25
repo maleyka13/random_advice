@@ -50,8 +50,9 @@
 .advice-box .send-advice {
   position: absolute;
   bottom: -18px;
+
   background-color: #3bb783;
-  padding: 10px;
-  border-radius: 50%;
-  left: 146px;
+  padding: 12px;
+  border-radius: 12px;
+  left: 115px;
 }
